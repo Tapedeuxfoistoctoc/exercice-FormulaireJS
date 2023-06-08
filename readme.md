@@ -14,3 +14,11 @@ En vous aidant des ressources, vous devez mettre votre projet du formulaire Java
 * Etape8: vérifié, que votre projet est bien sur github
 
 Attention! Si vous ne suivez pas les instructions dans l'ordre, cela ne marchera pas, il faudra tout recommencer.
+
+## Addendum 1
+
+* Ajouter un collaborateur sur  projet
+* Créer un fichier index.html (collaborateur 1) = L
+* Créer un fichier script.js (collaborateur 2) = SELF
+* Créer un fichier style.css (collaborateur 3) = J
+* Push et mettre à jour  sur Github et local.
